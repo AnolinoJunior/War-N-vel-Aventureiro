@@ -43,41 +43,6 @@ Funções auxiliares e protótipos
 
 Boas práticas de limpeza de buffer (limparBuffer())
 
-🖥️ Exemplo de Execução
-=== SIMULACAO DE BATALHA ENTRE TERRITORIOS ===
-
-Digite o numero total de territorios: 3
-
---- Cadastro do Territorio 1 ---
-Digite o nome do territorio: Brasil
-Cor do exercito atribuida: Vermelho
-Tropas iniciais: 9
-
---- Cadastro do Territorio 2 ---
-Digite o nome do territorio: Argentina
-Cor do exercito atribuida: Azul
-Tropas iniciais: 12
-
---- Cadastro do Territorio 3 ---
-Digite o nome do territorio: Chile
-Cor do exercito atribuida: Verde
-Tropas iniciais: 7
-
-=== FASE DE ATAQUE ===
-1. Brasil (Vermelho) - 9 tropas
-2. Argentina (Azul) - 12 tropas
-3. Chile (Verde) - 7 tropas
-
-Selecione o territorio ATACANTE (numero): 1  
-Selecione o territorio DEFENSOR (numero): 2  
-
-=== INICIANDO ATAQUE ===  
-Brasil (Vermelho) esta atacando Argentina (Azul)!  
-Dado do atacante: 6  
-Dado do defensor: 4  
-
->>> VITORIA DO ATACANTE! <<<  
-O territorio defensor agora pertence ao exercito Vermelho!
 
 🧩 Estrutura do Código
 Função	Descrição
