@@ -1,0 +1,3 @@
+﻿  War-Nivel-Aventureiro.cpp
+C:\Users\anoli\Desktop\Faculdade-Estrutura de dados\War-Nivel-Aventureiro\War-Nivel-Aventureiro\War-Nivel-Aventureiro.cpp(22,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  War-Nivel-Aventureiro.vcxproj -> C:\Users\anoli\Desktop\Faculdade-Estrutura de dados\War-Nivel-Aventureiro\x64\Debug\War-Nivel-Aventureiro.exe
